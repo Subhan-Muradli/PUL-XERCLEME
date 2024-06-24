@@ -1,0 +1,27 @@
+[
+
+    {
+        "id": 1,
+        "title": "Saqqiz",
+        "price":0.5,
+        "image": "https://strgimgr.umico.az/sized/840/142836-9bdc86100cc3c14df3b0cdebf2ea399c.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price":6,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQl9_TyeYMmtBYUhSjgy9xDpsQGde2rllCg&s"
+    },
+    {
+        "id": 3,
+        "title": "Ayaqqabi",
+        "price":400,
+        "image":"https://safeunion.az/wp-content/uploads/safe-union-Fərdi-muhafizə-vasitələri-Ayyaqabi-SM0216.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Maşın",
+        "price":10000,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpBa5lW8OwOQHUvIhyuXcB1wm8oD1xivTYIg&s"
+    }
+]
